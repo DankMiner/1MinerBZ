@@ -32,7 +32,7 @@ A professional Windows GUI wrapper for BZMiner, specifically designed for mining
 
 1. Download `BZMiner-Warthog-Wrapper-v1.0.0.zip` from [Releases](https://github.com/yourusername/bzminer-wrapper/releases)
 2. Extract the ZIP file to your desired location (e.g., `C:\BZMiner-Wrapper\`)
-3. Run `BZMiner Wrapper.exe`
+3. Run `BZMiner Wrapper Setup 1.0.0`
 4. Configure your wallet address and preferred settings
 5. Click "START" to begin mining
 
